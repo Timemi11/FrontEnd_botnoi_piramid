@@ -1,8 +1,33 @@
-# React + Vite
+ # BOT NOI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ # วิธีติดตั้ง
 
-Currently, two official plugins are available:
+เลือก file path ที่ต้องการจะเก็บไฟล์ไว้
+```
+cd filepath
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+clone repo
+``` 
+git clone https://github.com/Timemi11/FrontEnd_botnoi_piramid.git
+```
+
+เปลี่ยน directory ไปที่ FrontEnd_botnoi_piramid
+```
+cd FrontEnd_botnoi_piramid
+```
+
+ติดตั้ง dependency
+```
+npm i
+```
+start server
+```
+npm run dev
+```
+
+##  ภาษา Framwork   และ Toolต่างๆที่ใช้
+
+- React
+- Node.js
+- tailwind
