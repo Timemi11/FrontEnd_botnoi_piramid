@@ -30,4 +30,3 @@ npm run dev
 
 - React
 - Node.js
-- tailwind
